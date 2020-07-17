@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Anuj's github stats](https://github-readme-stats.vercel.app/api/?username=anujdutt9&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+![Anuj's github stats](https://github-readme-stats.vercel.app/api/?username=satyamuralidhar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
  years of IT exeperince looking for opportunities and collabaration in projects related to data science and deep learning.
 
 ```python
