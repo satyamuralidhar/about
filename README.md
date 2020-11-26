@@ -3,7 +3,7 @@
 
 ### Tools
 
-<img src="https://golangnews.org/wp-content/uploads/2020/04/og-image-8b3e4f7d-712x640.png" width="100">
+<img src="https://golangnews.org/wp-content/uploads/2020/04/og-image-8b3e4f7d-712x640.png" width="50">
 
 ### Hi there 👋
 
