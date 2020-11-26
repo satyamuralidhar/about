@@ -5,6 +5,13 @@
 
 <img src="https://golangnews.org/wp-content/uploads/2020/04/og-image-8b3e4f7d-712x640.png" width="50">
 
+
+<img src="https://miro.medium.com/max/4000/0*4Z6mwORGhtSAgeQ2.png" width="50">
+
+
+<img src="https://pbs.twimg.com/profile_images/1146317507/twitter_400x400.png" width="50">
+
+
 ### Hi there 👋
 
 ![Satya's github stats](https://github-readme-stats.vercel.app/api?username=satyamuralidhar&show_icons=true)
