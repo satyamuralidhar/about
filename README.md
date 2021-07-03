@@ -7,7 +7,7 @@
 <img src="https://brandslogos.com/wp-content/uploads/images/large/docker-logo-black-and-white.png" width="60">
 <img src="https://download.logo.wine/logo/Kubernetes/Kubernetes-Logo.wine.png" width="80">
 <img src="https://miro.medium.com/max/4000/0*4Z6mwORGhtSAgeQ2.png" width="40"> <img src="https://pbs.twimg.com/profile_images/1146317507/twitter_400x400.png" width="40"> <img src="https://camo.githubusercontent.com/91de473fa3f2f749a56effc3e64f1049d108251f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67" width="40">
-<img src="https://www.datocms-assets.com/2885/1620155106-brandhcpackerverticalcolor.svg" width="150">
+<img src="https://www.datocms-assets.com/2885/1620155106-brandhcpackerverticalcolor.svg" width="80">
 
 
 ### Hi there 👋
