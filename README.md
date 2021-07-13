@@ -4,8 +4,8 @@
 ### Tools
 
 <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png" width="80"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNzMDJI9FJrB_vK07uzy7fZM0VeBNzcVaruQ&usqp=CAU" width="80"> <img src="https://i1.wp.com/www.cloudworkbench.com/wp-content/uploads/2020/10/aws-logo-1.png?fit=517%2C517&ssl=1" width="70"> <img src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" width="60">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1200px-Ansible_logo.svg.png" width="40">
-<img src="https://brandslogos.com/wp-content/uploads/images/large/docker-logo-black-and-white.png" width="60">
 <img src="https://download.logo.wine/logo/Kubernetes/Kubernetes-Logo.wine.png" width="80">
+<img src="https://brandslogos.com/wp-content/uploads/images/large/docker-logo-black-and-white.png" width="60">
 <img src="https://adamtheautomator.com/wp-content/uploads/2020/01/azure-pipelines.png" width="80">
 <img src="https://lh3.googleusercontent.com/proxy/ZG7e5_LRaKi25edGDnI46flBIop2t8D0Xe95Yt7WnCl3Csm8UVedop84EeMzZtZ6h9bk9FtFFiPfyef2eD5TQqxuIw1X5GqK5KhA7kbF7fM16Af1YzYujiJPKr2dXYArTxslCAC6BvJwZrFVLquk" width="80">
 <img src="https://developer.ibm.com/recipes/wp-content/uploads/sites/41/2021/01/gitlab-logo-gray-stacked-rgb.jpg" width="80">
