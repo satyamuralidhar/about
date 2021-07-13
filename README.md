@@ -9,7 +9,7 @@
 <img src="https://adamtheautomator.com/wp-content/uploads/2020/01/azure-pipelines.png" width="80">
 <img src="https://lh3.googleusercontent.com/proxy/ZG7e5_LRaKi25edGDnI46flBIop2t8D0Xe95Yt7WnCl3Csm8UVedop84EeMzZtZ6h9bk9FtFFiPfyef2eD5TQqxuIw1X5GqK5KhA7kbF7fM16Af1YzYujiJPKr2dXYArTxslCAC6BvJwZrFVLquk" width="80">
 <img src="https://developer.ibm.com/recipes/wp-content/uploads/sites/41/2021/01/gitlab-logo-gray-stacked-rgb.jpg" width="80">
-<img src="https://miro.medium.com/max/4000/0*4Z6mwORGhtSAgeQ2.png" width="40"> <img src="https://pbs.twimg.com/profile_images/1146317507/twitter_400x400.png" width="40"> <img src="https://camo.githubusercontent.com/91de473fa3f2f749a56effc3e64f1049d108251f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67" width="40">
+<img src="https://miro.medium.com/max/4000/0*4Z6mwORGhtSAgeQ2.png" width="40"> <img src="https://pbs.twimg.com/profile_images/1146317507/twitter_400x400.png" width="60"> <img src="https://camo.githubusercontent.com/91de473fa3f2f749a56effc3e64f1049d108251f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67" width="40">
 <img src="https://www.datocms-assets.com/2885/1620155106-brandhcpackerverticalcolor.svg" width="60">
 
 
